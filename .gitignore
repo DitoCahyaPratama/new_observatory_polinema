@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/observatory_polinema_client/node_modules
+/observatory_polinema_client/.pnp
+/observatory_polinema_client.pnp.js
+
+# testing
+/observatory_polinema_client/coverage
+
+# production
+/observatory_polinema_client/build
+
+# misc
+/observatory_polinema_client/.DS_Store
+/observatory_polinema_client/.env.local
+/observatory_polinema_client/.env.development.local
+/observatory_polinema_client/.env.test.local
+/observatory_polinema_client/.env.production.local
+
+/observatory_polinema_client/npm-debug.log*
+/observatory_polinema_client/yarn-debug.log*
+/observatory_polinema_client/yarn-error.log*

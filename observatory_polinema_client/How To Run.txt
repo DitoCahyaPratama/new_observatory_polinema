@@ -1,0 +1,5 @@
+buka command prompt lalu buka folder Web Observatory Polinema jalankan perintah berikut di 
+npm install
+
+jika sudah tinggal di run dengan perintah berikut
+npm start

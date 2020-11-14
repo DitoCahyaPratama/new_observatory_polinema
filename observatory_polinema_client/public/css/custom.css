@@ -1,0 +1,13 @@
+.tbl-account{
+    margin-top: 40px;
+}
+.tbl-account tr td{
+    padding: 20px;
+}
+.tbl-account tr td:first-child{
+    color: #000000;
+}
+
+td.column-size {
+    text-align: right !important;
+}

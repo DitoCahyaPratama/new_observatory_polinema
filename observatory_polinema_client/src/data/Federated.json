@@ -1,0 +1,33 @@
+{
+  "head": {
+    "vars": [ "movieid" , "movietitle" , "director" , "notableworks" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "movieid": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3591049" } ,
+        "movietitle": { "type": "literal" , "value": "The Revenant (2015)" } ,
+        "director": { "type": "literal" , "value": "IÃ±Ã¡rritu, Alejandro G." } ,
+        "notableworks": { "type": "literal" , "xml:lang": "en" , "value": "Amores perros" }
+      } ,
+      {
+        "movieid": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3591049" } ,
+        "movietitle": { "type": "literal" , "value": "The Revenant (2015)" } ,
+        "director": { "type": "literal" , "value": "IÃ±Ã¡rritu, Alejandro G." } ,
+        "notableworks": { "type": "literal" , "xml:lang": "en" , "value": "The Revenant (2015 film)" }
+      } ,
+      {
+        "movieid": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3591049" } ,
+        "movietitle": { "type": "literal" , "value": "The Revenant (2015)" } ,
+        "director": { "type": "literal" , "value": "IÃ±Ã¡rritu, Alejandro G." } ,
+        "notableworks": { "type": "literal" , "xml:lang": "en" , "value": "Babel (film)" }
+      } ,
+      {
+        "movieid": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3591049" } ,
+        "movietitle": { "type": "literal" , "value": "The Revenant (2015)" } ,
+        "director": { "type": "literal" , "value": "IÃ±Ã¡rritu, Alejandro G." } ,
+        "notableworks": { "type": "literal" , "xml:lang": "en" , "value": "Birdman (film)" }
+      }
+    ]
+  }
+}
